@@ -14,27 +14,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 0;
-				requiredarchives = "";
-			}
-			
-			resource1
-			{
-				type = 0;
-				location = "E:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\WAD-The-Living-Abyss-in-my-Painting\\pid-resource.wad";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 0;
-				requiredarchives = "";
-			}
-			
-			resource2
-			{
-				type = 0;
-				location = "E:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\WAD-The-Living-Abyss-in-my-Painting\\pid-sprites.wad";
+				location = "S:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -58,9 +38,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 8856.642f;
-		viewpositiony = -6194.756f;
-		viewscale = 4.175354f;
+		viewpositionx = 10032.93f;
+		viewpositiony = -5695.301f;
+		viewscale = 11.92522f;
 		
 		grid
 		{
@@ -70,7 +50,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 8;
+			gridsize = 4;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
